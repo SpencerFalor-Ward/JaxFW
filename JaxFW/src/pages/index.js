@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 
+//I think this is where this belongs...It is supposed to be in the "entry file"
+import 'semantic-ui-css/semantic.min.css'
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
